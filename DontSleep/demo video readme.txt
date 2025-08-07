@@ -1,0 +1,1 @@
+the reason it kept on giving "yawning detected" error when I brought up the phone is because of the hand placement as hand placement is also a part of our system's yawn detection so please ignore those, rest assured the system is working normally as it did in class.
